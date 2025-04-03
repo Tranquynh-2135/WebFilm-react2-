@@ -8,7 +8,11 @@ export default function Header() {
   return (
     <header className="flex items-center justify-between p-4 bg-gray-900 text-white shadow-md">
       {/* Logo */}
-      <div className="text-xl font-bold">MovieHub</div>
+      <div className="text-xl font-bold">
+            <Link to="/"> {/* Thêm Link để điều hướng */}
+                MovieHub
+            </Link>
+      </div>
       
       {/* Thanh tìm kiếm */}
       <div className="flex items-center w-1/3 space-x-2">

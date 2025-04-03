@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 import Home from './pages/home.jsx';
 import './assets/main.css';
 import Login from './pages/login.jsx';
 import SignUp from './pages/signup.jsx'
-import { Route, Routes, BrowserRouter } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 
 function App() {
   return (

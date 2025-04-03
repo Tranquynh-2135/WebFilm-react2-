@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Input from '../component/input'; // Giả sử bạn đã có component Input
-import Button from '../component/button'; // Giả sử bạn đã có component Button
-import { useNavigate,Link } from 'react-router-dom'; // Để điều hướng sau khi đăng nhập
+import Input from '../component/input'; 
+import Button from '../component/button'; 
+import { useNavigate,Link } from 'react-router-dom'; 
 
 export default function Login() {
   const [email, setEmail] = useState('');
