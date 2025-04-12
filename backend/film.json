@@ -1,0 +1,432 @@
+[
+  {
+    "title": "Attack on Titan",
+    "image": "/images/aot.jpg",
+    "year": 2013,
+    "genre": "Action",
+    "description": "Eren và bạn bè chiến đấu chống lại Titan để bảo vệ nhân loại.",
+    "episodes": [
+      {
+        "title": "Tập 1: Sự sụp đổ của Shiganshina",
+        "description": "Titan tấn công bức tường Maria, buộc Eren và Mikasa phải chạy trốn.",
+        "url": "/episodes/aot-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2013-04-07"
+      },
+      {
+        "title": "Tập 2: Ngày định mệnh",
+        "description": "Eren gia nhập quân đội và bắt đầu huấn luyện để chống lại Titan.",
+        "url": "/episodes/aot-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2013-04-14"
+      }
+    ]
+  },
+  {
+    "title": "Demon Slayer",
+    "image": "/images/demonslayer.jpg",
+    "year": 2019,
+    "genre": "Action, Supernatural",
+    "description": "Tanjiro trở thành thợ săn quỷ để cứu em gái mình.",
+    "episodes": [
+      {
+        "title": "Tập 1: Tàn nhẫn",
+        "description": "Gia đình Tanjiro bị quỷ tấn công, chỉ Nezuko sống sót nhưng trở thành quỷ.",
+        "url": "/episodes/demonslayer-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2019-04-06"
+      },
+      {
+        "title": "Tập 2: Người huấn luyện Sakonji Urokodaki",
+        "description": "Tanjiro bắt đầu huấn luyện để trở thành thợ săn quỷ.",
+        "url": "/episodes/demonslayer-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2019-04-13"
+      }
+    ]
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "image": "/images/jujutsu.jpg",
+    "year": 2020,
+    "genre": "Action, Supernatural",
+    "description": "Itadori chiến đấu với lời nguyền để bảo vệ con người.",
+    "episodes": [
+      {
+        "title": "Tập 1: Ryomen Sukuna",
+        "description": "Itadori nuốt ngón tay của Sukuna và trở thành vật chứa lời nguyền.",
+        "url": "/episodes/jujutsu-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2020-10-03"
+      },
+      {
+        "title": "Tập 2: Vì chính mình",
+        "description": "Itadori gia nhập trường Jujutsu để học cách kiểm soát sức mạnh.",
+        "url": "/episodes/jujutsu-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2020-10-10"
+      }
+    ]
+  },
+  {
+    "title": "One Piece",
+    "image": "/images/onepiece.jpg",
+    "year": 1999,
+    "genre": "Adventure",
+    "description": "Luffy cùng đồng đội tìm kiếm kho báu One Piece huyền thoại.",
+    "episodes": [
+      {
+        "title": "Tập 1: Tôi là Luffy! Người sẽ trở thành Vua Hải Tặc!",
+        "description": "Luffy bắt đầu hành trình trở thành Vua Hải Tặc.",
+        "url": "/episodes/onepiece-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "1999-10-20"
+      },
+      {
+        "title": "Tập 2: Thợ săn hải tặc Roronoa Zoro",
+        "description": "Luffy gặp Zoro và thuyết phục anh gia nhập băng Mũ Rơm.",
+        "url": "/episodes/onepiece-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "1999-11-17"
+      }
+    ]
+  },
+  {
+    "title": "Naruto",
+    "image": "/images/naruto.jpg",
+    "year": 2002,
+    "genre": "Action, Ninja",
+    "description": "Naruto phấn đấu trở thành Hokage mạnh nhất làng Lá.",
+    "episodes": [
+      {
+        "title": "Tập 1: Uzumaki Naruto xuất hiện!",
+        "description": "Naruto nghịch ngợm và bị đuổi khỏi lớp học ninja.",
+        "url": "/episodes/naruto-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2002-10-03"
+      },
+      {
+        "title": "Tập 2: Tôi là Konohamaru!",
+        "description": "Naruto gặp Konohamaru và giúp cậu hiểu về trách nhiệm.",
+        "url": "/episodes/naruto-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2002-10-10"
+      }
+    ]
+  },
+  {
+    "title": "Bleach",
+    "image": "/images/bleach.jpg",
+    "year": 2004,
+    "genre": "Action, Supernatural",
+    "description": "Ichigo trở thành Thần Chết thay thế và chiến đấu với Hollow.",
+    "episodes": [
+      {
+        "title": "Tập 1: Ngày tôi trở thành Thần Chết",
+        "description": "Ichigo gặp Rukia và nhận sức mạnh Thần Chết.",
+        "url": "/episodes/bleach-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2004-10-05"
+      },
+      {
+        "title": "Tập 2: Công việc của một Thần Chết",
+        "description": "Ichigo bắt đầu nhiệm vụ tiêu diệt Hollow đầu tiên.",
+        "url": "/episodes/bleach-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2004-10-12"
+      }
+    ]
+  },
+  {
+    "title": "My Hero Academia",
+    "image": "/images/mha.jpg",
+    "year": 2016,
+    "genre": "Action, Superhero",
+    "description": "Izuku Midoriya theo học tại học viện UA để trở thành anh hùng.",
+    "episodes": [
+      {
+        "title": "Tập 1: Izuku Midoriya: Khởi nguồn",
+        "description": "Izuku gặp All Might và được chọn làm người kế thừa.",
+        "url": "/episodes/mha-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2016-04-03"
+      },
+      {
+        "title": "Tập 2: Điều kiện để trở thành anh hùng",
+        "description": "Izuku bắt đầu huấn luyện để thừa kế sức mạnh One For All.",
+        "url": "/episodes/mha-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2016-04-10"
+      }
+    ]
+  },
+  {
+    "title": "Tokyo Ghoul",
+    "image": "/images/tokyoghoul.jpg",
+    "year": 2014,
+    "genre": "Horror, Supernatural",
+    "description": "Kaneki trở thành bán Ghoul sau một tai nạn định mệnh.",
+    "episodes": [
+      {
+        "title": "Tập 1: Bi kịch",
+        "description": "Kaneki bị tấn công và trở thành bán Ghoul sau ca phẫu thuật.",
+        "url": "/episodes/tokyoghoul-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2014-07-04"
+      },
+      {
+        "title": "Tập 2: Thế giới mới",
+        "description": "Kaneki học cách sống chung với bản chất Ghoul của mình.",
+        "url": "/episodes/tokyoghoul-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2014-07-11"
+      }
+    ]
+  },
+  {
+    "title": "Death Note",
+    "image": "/images/deathnote.jpg",
+    "year": 2006,
+    "genre": "Thriller, Supernatural",
+    "description": "Light Yagami dùng quyển sổ tử thần để thanh trừng tội phạm.",
+    "episodes": [
+      {
+        "title": "Tập 1: Tái sinh",
+        "description": "Light tìm thấy Death Note và bắt đầu thử nghiệm sức mạnh của nó.",
+        "url": "/episodes/deathnote-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2006-10-03"
+      },
+      {
+        "title": "Tập 2: Đối đầu",
+        "description": "L xuất hiện và bắt đầu điều tra danh tính của Kira.",
+        "url": "/episodes/deathnote-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2006-10-10"
+      }
+    ]
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "image": "/images/fmab.jpg",
+    "year": 2009,
+    "genre": "Adventure, Magic",
+    "description": "Edward và Alphonse tìm kiếm Hòn đá Triết gia để phục hồi cơ thể.",
+    "episodes": [
+      {
+        "title": "Tập 1: Nhà giả kim thuật Fullmetal",
+        "description": "Edward và Alphonse điều tra một giáo phái giả mạo.",
+        "url": "/episodes/fmab-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2009-04-05"
+      },
+      {
+        "title": "Tập 2: Ngày đầu tiên",
+        "description": "Hồi tưởng về quá khứ của Edward và Alphonse khi học giả kim thuật.",
+        "url": "/episodes/fmab-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2009-04-12"
+      }
+    ]
+  },
+  {
+    "title": "Chainsaw Man",
+    "image": "/images/chainsawman.jpg",
+    "year": 2022,
+    "genre": "Action, Horror",
+    "description": "Denji kết hợp với quỷ Cưa và làm thợ săn quỷ cho chính phủ.",
+    "episodes": [
+      {
+        "title": "Tập 1: Chó và Cưa",
+        "description": "Denji hợp nhất với Pochita và trở thành Chainsaw Man.",
+        "url": "/episodes/chainsawman-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2022-10-11"
+      },
+      {
+        "title": "Tập 2: Đến Tokyo",
+        "description": "Denji gia nhập đội thợ săn quỷ và gặp Makima.",
+        "url": "/episodes/chainsawman-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2022-10-18"
+      }
+    ]
+  },
+  {
+    "title": "Spy x Family",
+    "image": "/images/spyxfamily.jpg",
+    "year": 2022,
+    "genre": "Comedy, Action",
+    "description": "Gia đình điệp viên với mục tiêu cứu thế giới và giữ bí mật.",
+    "episodes": [
+      {
+        "title": "Tập 1: Nhiệm vụ 01",
+        "description": "Twilight nhận nhiệm vụ lập gia đình để tiếp cận mục tiêu.",
+        "url": "/episodes/spyxfamily-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2022-04-09"
+      },
+      {
+        "title": "Tập 2: Tìm kiếm một người vợ",
+        "description": "Twilight gặp Yor và đề nghị cô đóng vai vợ của mình.",
+        "url": "/episodes/spyxfamily-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2022-04-16"
+      }
+    ]
+  },
+  {
+    "title": "Sword Art Online",
+    "image": "/images/sao.jpg",
+    "year": 2012,
+    "genre": "Game, Action",
+    "description": "Người chơi mắc kẹt trong thế giới ảo SAO phải chiến đấu để sinh tồn.",
+    "episodes": [
+      {
+        "title": "Tập 1: Thế giới của kiếm",
+        "description": "Kirito bị mắc kẹt trong trò chơi Sword Art Online.",
+        "url": "/episodes/sao-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2012-07-07"
+      },
+      {
+        "title": "Tập 2: Người săn quái thú",
+        "description": "Kirito hợp tác với người chơi khác để đánh bại quái thú tầng 1.",
+        "url": "/episodes/sao-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2012-07-14"
+      }
+    ]
+  },
+  {
+    "title": "Dr. Stone",
+    "image": "/images/drstone.jpg",
+    "year": 2019,
+    "genre": "Sci-Fi, Adventure",
+    "description": "Senku phục hồi nền văn minh bằng khoa học sau sự kiện hóa đá.",
+    "episodes": [
+      {
+        "title": "Tập 1: Stone World",
+        "description": "Senku tỉnh dậy trong thế giới hóa đá và quyết tâm tái xây dựng văn minh.",
+        "url": "/episodes/drstone-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2019-07-05"
+      },
+      {
+        "title": "Tập 2: Vua của thế giới đá",
+        "description": "Senku và Taiju bắt đầu chế tạo bột súng để đối phó với Tsukasa.",
+        "url": "/episodes/drstone-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2019-07-12"
+      }
+    ]
+  },
+  {
+    "title": "Haikyuu!!",
+    "image": "/images/haikyuu.jpg",
+    "year": 2014,
+    "genre": "Sports",
+    "description": "Hinata theo đuổi ước mơ trở thành ngôi sao bóng chuyền.",
+    "episodes": [
+      {
+        "title": "Tập 1: Điểm kết thúc và khởi đầu",
+        "description": "Hinata gặp Kageyama và quyết định gia nhập đội bóng chuyền Karasuno.",
+        "url": "/episodes/haikyuu-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2014-04-06"
+      },
+      {
+        "title": "Tập 2: Đội bóng Karasuno",
+        "description": "Hinata và Kageyama bắt đầu tập luyện cùng đội Karasuno.",
+        "url": "/episodes/haikyuu-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2014-04-13"
+      }
+    ]
+  },
+  {
+    "title": "Your Name",
+    "image": "/images/yourname.jpg",
+    "year": 2016,
+    "genre": "Romance, Fantasy",
+    "description": "Hai thiếu niên hoán đổi thân xác và tìm kiếm nhau qua thời gian.",
+    "episodes": []
+  },
+  {
+    "title": "A Silent Voice",
+    "image": "/images/silentvoice.jpg",
+    "year": 2016,
+    "genre": "Drama",
+    "description": "Câu chuyện cảm động về sự chuộc lỗi và tha thứ giữa hai học sinh.",
+    "episodes": []
+  },
+  {
+    "title": "Erased",
+    "image": "/images/erased.jpg",
+    "year": 2016,
+    "genre": "Mystery, Time Travel",
+    "description": "Satoru quay về quá khứ để ngăn chặn một vụ án mạng.",
+    "episodes": [
+      {
+        "title": "Tập 1: Lùi thời gian",
+        "description": "Satoru phát hiện khả năng quay về quá khứ để sửa chữa sai lầm.",
+        "url": "/episodes/erased-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2016-01-08"
+      },
+      {
+        "title": "Tập 2: Những ký ức mơ hồ",
+        "description": "Satoru quay về thời tiểu học để cứu một người bạn.",
+        "url": "/episodes/erased-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2016-01-15"
+      }
+    ]
+  },
+  {
+    "title": "Parasyte",
+    "image": "/images/parasyte.jpg",
+    "year": 2014,
+    "genre": "Horror, Sci-Fi",
+    "description": "Shinichi hợp tác với ký sinh trùng Migi để bảo vệ loài người.",
+    "episodes": [
+      {
+        "title": "Tập 1: Biến đổi",
+        "description": "Shinichi bị ký sinh trùng tấn công nhưng chỉ chiếm cánh tay phải.",
+        "url": "/episodes/parasyte-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2014-10-08"
+      },
+      {
+        "title": "Tập 2: Quỷ và người",
+        "description": "Shinichi học cách hợp tác với Migi để đối phó với các ký sinh khác.",
+        "url": "/episodes/parasyte-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2014-10-15"
+      }
+    ]
+  },
+  {
+    "title": "Black Clover",
+    "image": "/images/blackclover.jpg",
+    "year": 2017,
+    "genre": "Magic, Adventure",
+    "description": "Asta không có phép thuật nhưng vẫn muốn trở thành Ma Vương.",
+    "episodes": [
+      {
+        "title": "Tập 1: Asta và Yuno",
+        "description": "Asta và Yuno nhận quyển sách phép thuật đầu tiên của mình.",
+        "url": "/episodes/blackclover-ep1.mp4",
+        "episodeNumber": 1,
+        "releaseDate": "2017-10-03"
+      },
+      {
+        "title": "Tập 2: Quyển sách năm lá",
+        "description": "Asta nhận thanh kiếm chống phép thuật và bắt đầu hành trình.",
+        "url": "/episodes/blackclover-ep2.mp4",
+        "episodeNumber": 2,
+        "releaseDate": "2017-10-10"
+      }
+    ]
+  }
+]
